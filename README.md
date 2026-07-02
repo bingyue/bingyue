@@ -1,7 +1,5 @@
 ﻿<div align="center">
 
-# 越哥
-
 **AI 创业者 · 智能体技术专家 · 企业 AI 落地导师**
 
 [![WeChat](https://img.shields.io/badge/微信-YueAGI-07C160?style=flat-square&logo=wechat&logoColor=white)](https://weixin.qq.com)
